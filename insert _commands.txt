@@ -1,0 +1,16 @@
+insert into movie(mv_title,mv_box_office,mv_active,mv_date_of_launch,mv_genre,mv_teaser) 
+values("Avatar",2787965087,"Yes",15/03/2017,"Science Fiction","Yes");
+
+insert into movie(mv_title,mv_box_office,mv_active,mv_date_of_launch,mv_genre,mv_teaser) 
+values("The Avengers",1518812988,"Yes",23/12/2017,"Super Hero","No");
+
+
+insert into movie(mv_title,mv_box_office,mv_active,mv_date_of_launch,mv_genre,mv_teaser) 
+values("Titanic",2187463944,"Yes",21/08/2017,"Romance","No");
+
+insert into movie(mv_title,mv_box_office,mv_active,mv_date_of_launch,mv_genre,mv_teaser) 
+values("Jurassic World",1671713208,"No",02/07/2017,"Science Fiction","Yes");
+
+
+insert into movie(mv_title,mv_box_office,mv_active,mv_date_of_launch,mv_genre,mv_teaser) 
+values("Avengers:End Game",2750760348,"Yes",02/11/2022,"Super Hero","Yes");
